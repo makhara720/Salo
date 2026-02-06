@@ -15,7 +15,7 @@ const MusicPlayer: React.FC<MusicPlayerProps> = ({ autoPlay }) => {
    * 🎵 აქ ჩასვით თქვენი MP3 ფაილის ლინკი
    * მაგალითად: "https://tqveni-saiti.ge/simgera.mp3"
    */
-  const AUDIO_URL = "music/lovemusic.mp3"; 
+  const AUDIO_URL = "music/love.mp3"; 
 
   useEffect(() => {
     if (autoPlay && !isPlaying && !hasError) {
