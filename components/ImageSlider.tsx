@@ -4,20 +4,24 @@ import { ChevronLeft, ChevronRight, Heart, Star } from 'lucide-react';
 
 const IMAGES = [
   {
-    url: "images/image00001.jpeg",
+    url: "images/image1.jpeg",
     caption: "ჩვენი ბედნიერი წუთები ✨"
   },
   {
-    url: "images/image00002.jpeg",
+    url: "images/image2.jpeg",
     caption: "შენ ჩემი სამყარო ხარ 🌎"
   },
   {
-    url: "images/image00003.jpeg",
+    url: "images/image3.jpeg",
     caption: "ლამაზი მოგონებები 📸"
   },
   {
-    url: "images/image00004.jpeg",
+    url: "images/image4.jpeg",
     caption: "ჩვენი საერთო მომავალი 🥂"
+  },
+    {
+    url: "images/image5.jpeg",
+    caption: "ლამაზი მოგონებები 📸"
   }
 ];
 
